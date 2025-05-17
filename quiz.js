@@ -15,7 +15,7 @@ const quizQuestions = [
       option3: "Mars",
       option4: "Venus",
       option5: "Jupiter",
-       correctAnswer: "Mars"
+      correctAnswer: "Mars"
     },
     {
       question: "What is the largest ocean on Earth?",
